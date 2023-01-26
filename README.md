@@ -105,14 +105,14 @@ This README.md file is my GitHub profile
 <!--- GitHub Stats Streak Languages -->
 <body>
     <div>
-        <a href="https://github.com/enduringwriter" target="_blank">    
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
+        <a href="https://github.com/Jared-Wood135" target="_blank">    
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jared-Wood135" alt="Jared Wood"/>
         </a>
-        <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
+        <a href="https://github.com/Jared-Wood135" target ="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jared-Wood135" alt="Jared Wood"/>
         </a>
-        <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter&layout=compact" alt="enduringwriter" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" style="max-width: 100%;">
+        <a href="https://github.com/Jared-Wood135" target ="_blank">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jared-Wood135&layout=compact" alt="Jared Wood" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jared-Wood135" style="max-width: 100%;">
         </a>
     </div>
     <br>
@@ -122,11 +122,11 @@ This README.md file is my GitHub profile
 <!--- GitHub Repositories -->
 <body>
     <div>
-        <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
+        <a href="https://github.com/Jared-Wood135" target ="_blank">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jared-Wood135&repo=fun_projects" alt="Jared Wood"/>
         </a>
-        <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
+        <a href="https://github.com/Jared-Wood135" target ="_blank">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=Jared-Wood135" alt="enduringwriter"/>
         </a>
     </div>
     <br>
@@ -134,6 +134,6 @@ This README.md file is my GitHub profile
 
 
 <!--- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=enduringwriter)](https://github.com/enduringwriter/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jared-Wood135)](https://github.com/Jared-Wood135/github-profile-trophy)
 
 </html>
