@@ -122,7 +122,7 @@ This README.md file is my GitHub profile
 <!--- GitHub Repositories -->
 <body>
     <div>
-        <a href="[https://github.com/Jared-Wood135](https://github.com/Jared-Wood135/CLI-Command-Line-Interface-Personalization)" target ="_blank">
+        <a href="https://github.com/Jared-Wood135/CLI-Command-Line-Interface-Personalization" target ="_blank">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jared-Wood135&repo=fun_projects" alt="Jared Wood"/>
         </a>
         <a href="https://github.com/Jared-Wood135" target ="_blank">
