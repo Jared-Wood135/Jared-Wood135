@@ -31,9 +31,9 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- Data Science program just began on 17Jan2023! and am ready to begin collaborating on projects
-- Served in the **U.S. Army** in military intelligence.
-- Active TS/SCI (Top Secret/Secret Compartmented Information)
+- Data Science 20-Week program began on 17JAN2023 and am ready to begin collaborating on projects
+- Served in the **U.S. Army** in Military Intelligence
+- Active TS/SCI (Top Secret/Sensitive Compartmented Information)
 - 📫 Reach me at **jared.wood135@gmail.com**
 
 
@@ -126,7 +126,7 @@ This README.md file is my GitHub profile
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jared-Wood135&repo=fun_projects" alt="Jared Wood"/>
         </a>
         <a href="https://github.com/Jared-Wood135" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=Jared-Wood135" alt="enduringwriter"/>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=Jared-Wood135" alt="Jared Wood"/>
         </a>
     </div>
     <br>
