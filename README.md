@@ -106,7 +106,7 @@ This README.md file is my GitHub profile
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jared-Wood135&repo=fun_projects" alt="Jared Wood"/>
         </a>
         <a href="https://github.com/Jared-Wood135" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=Jared-Wood135" alt="Jared Wood"/>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jared-Wood135&repo=Jared-Wood135" alt="Jared Wood"/>
         </a>
     </div>
     <br>
