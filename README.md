@@ -73,6 +73,10 @@ This README.md file is my GitHub profile
         <a href="https://github.com/Jared-Wood135" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
         </a>
+        &nbsp;
+        <a href="https://github.com/Jared-Wood135" target="_blank">
+        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/sql-icon.png" alt="sql" width="40" height="40"/>
+        </a>
     </p>
     <br>
 </body>
