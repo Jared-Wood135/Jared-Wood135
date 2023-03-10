@@ -31,7 +31,7 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- Data Science 20-Week program began on 17JAN2023 and am ready to begin collaborating on projects
+- Data Science 20-Week program began on 17JAN2023, graduates 16JUN2023 and am ready to begin collaborating on projects
 - Served in the **U.S. Army** in Military Intelligence
 - Active TS/SCI (Top Secret/Sensitive Compartmented Information)
 - 📫 Reach me at **jared.wood135@gmail.com**
