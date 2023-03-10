@@ -45,11 +45,7 @@ This README.md file is my GitHub profile
 <body>
     <p align="left">
         <a href="https://www.linkedin.com/in/jaredwood135" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Jared Wood" height="40" width="40"/>
-        </a>
-        &nbsp;
-        <a href="https://twitter.com/JaredWood135" target="blank">
-        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/twitter.png" alt="Jared Wood" height="40" width="40"/>
+        <img align="center" src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/linkedin-icon.png" alt="Jared Wood" height="40" width="40"/>
         </a>
     </p>
 </body>
@@ -63,15 +59,27 @@ This README.md file is my GitHub profile
 <body>
     <p align="left">
         <a href="https://github.com/Jared-Wood135" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/jupyternotebook-icon.png" alt="jupyternotebook" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/Jared-Wood135" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="flask" width="40" height="40"/>
+        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/python-icon.png" alt="python" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/Jared-Wood135" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/vscode-icon.png" alt="vscode" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/Jared-Wood135" target="_blank">
+        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/numpy-icon.png" alt="numpy" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/Jared-Wood135" target="_blank">
+        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/pandas-icon.png" alt="pandas" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/Jared-Wood135" target="_blank">
+        <img src="https://github.com/Jared-Wood135/tech-skill-icons/blob/main/scipy-icon.png" alt="scipy" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/Jared-Wood135" target="_blank">
