@@ -113,6 +113,8 @@ This README.md file is my GitHub profile
         <a href="https://github.com/Jared-Wood135/CLI-Command-Line-Interface-Personalization" target ="_blank">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jared-Wood135&repo=CLI-Command-Line-Interface-Personalization" alt="Jared Wood"/>
         </a>
+        <a href="https://github.com/Jared-Wood135/mass-shooters-project" target ="_blank">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jared-Wood135&repo=mass-shooters-project" alt="Jared Wood"/>
         <!--- Additional Repositories
         <a href="https://github.com/Jared-Wood135" target ="_blank">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Jared-Wood135&repo=Jared-Wood135" alt="Jared Wood"/>
