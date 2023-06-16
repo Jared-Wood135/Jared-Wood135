@@ -23,7 +23,7 @@ This README.md file is my GitHub profile
 <!--- Subtitle -->
 <head>
     <h3 align="center">
-        Aspiring Data Scientist Student at Codeup
+        Aspiring Data Scientist
     <br><br>
     </h3>
     
@@ -31,7 +31,6 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- Data Science 20-Week program began on 17JAN2023, graduates 16JUN2023 and am ready to begin collaborating on projects
 - Served in the **U.S. Army** in Military Intelligence
 - 📫 Reach me at **jared.wood135@gmail.com**
 
