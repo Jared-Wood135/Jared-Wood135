@@ -15,7 +15,7 @@ This README.md file is my GitHub profile
     <meta name="author" content="Jared Wood">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1 align="center">
-        Hi, I'm Jared Wood <br> from Colorado, USA 🇺🇸
+        Hello, I'm Jared Wood <br> from Colorado, USA 🇺🇸
     </h1>
 </head>
 
@@ -31,8 +31,8 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- Served in the **U.S. Army** in Military Intelligence
-- 📫 Reach me at **jared.wood135@gmail.com**
+- Served in the **U.S. Army** as a Human Intelligence Collector
+- 📫 Email me at **jared.wood135@gmail.com**
 
 
 <!--- Social Networks - Connect with me -->
